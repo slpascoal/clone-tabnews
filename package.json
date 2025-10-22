@@ -1,0 +1,11 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Esse projeto iniciou como um clone do TabNews do Filipe Deschamps, feito por meio do Curso.dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silas L. Pascoal",
+  "license": "MIT"
+}
